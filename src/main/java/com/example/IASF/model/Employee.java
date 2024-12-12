@@ -1,4 +1,4 @@
-package com.example.salarymanagement.model;
+package com.example.IASF.model;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotBlank;

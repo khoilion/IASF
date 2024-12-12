@@ -1,7 +1,7 @@
-package com.example.salarymanagement.service;
+package com.example.IASF.service;
 
-import com.example.salarymanagement.model.Employee;
-import com.example.salarymanagement.repository.EmployeeRepository;
+import com.example.IASF.model.Employee;
+import com.example.IASF.repository.EmployeeRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

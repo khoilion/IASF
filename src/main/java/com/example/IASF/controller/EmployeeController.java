@@ -1,7 +1,7 @@
-package com.example.salarymanagement.controller;
+package com.example.IASF.controller;
 
-import com.example.salarymanagement.model.Employee;
-import com.example.salarymanagement.service.EmployeeService;
+import com.example.IASF.model.Employee;
+import com.example.IASF.service.EmployeeService;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
